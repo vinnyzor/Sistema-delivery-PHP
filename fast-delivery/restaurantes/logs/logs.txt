@@ -1,0 +1,32 @@
+
+[2023-06-30 08:37:57] Imagem de perfil atualizada com sucesso para o usuário: viniciusmendesdesousa@gmail.com | Restaurante ID: 1 | Imagem de Perfil: images_perfil/649e3a799cfe6.png -> images_perfil/649ebe955d5ea.png
+
+[2023-06-30 08:38:49] Nome Atualizado -  | Restaurante ID: 1 | Dados:: Nome Antigo: Eba+ Açai -> Novo Nome: Eba+ Açaiiii
+
+[2023-06-30 08:38:49] Telefone Atualizado -  | Restaurante ID: 1 | Dados:: Telefone Antigo: 61996511758 -> Novo Telefone: 61996511758999
+
+[2023-06-30 10:40:39] Imagem de perfil atualizada com sucesso para o usuário: viniciusmendesdesousa@gmail.com | Restaurante ID: 1 | Imagem de Perfil: images_perfil/649ebe955d5ea.png -> images_perfil/649edb5705a8d.png
+
+[2023-06-30 10:40:55] Nome Atualizado -  | Restaurante ID: 1 | Dados:: Nome Antigo: Eba+ Açaiiii -> Novo Nome: Eba+ Açaí
+
+[2023-06-30 10:40:55] Telefone Atualizado -  | Restaurante ID: 1 | Dados:: Telefone Antigo: 61996511758999 -> Novo Telefone: 61996511758
+
+[2023-06-30 11:56:22] Nome Atualizado -  | Restaurante ID: 1 | Dados:: Nome Antigo: Eba+ Açaí -> Novo Nome: Eba+ Açaí1
+
+[2023-06-30 11:56:22] Telefone Atualizado -  | Restaurante ID: 1 | Dados:: Telefone Antigo: 61996511758 -> Novo Telefone: 619965117581
+
+[2023-06-30 11:56:49] Imagem de perfil atualizada com sucesso para o usuário: viniciusmendesdesousa@gmail.com | Restaurante ID: 1 | Imagem de Perfil: images_perfil/649edb5705a8d.png -> images_perfil/649eed31afe1f.jpg
+
+[2023-06-30 23:47:54] Imagem de perfil atualizada com sucesso para o usuário: viniciusmendesdesousa@gmail.com | Restaurante ID: 1 | Imagem de Perfil: images_perfil/649eed31afe1f.jpg -> images_perfil/649f93da197fb.jpg
+
+[2023-06-30 23:48:49] Nome Atualizado -  | Restaurante ID: 1 | Dados:: Nome Antigo: Eba+ Açaí1 -> Novo Nome: Eba+ Açaí
+
+[2023-06-30 23:48:49] Telefone Atualizado -  | Restaurante ID: 1 | Dados:: Telefone Antigo: 619965117581 -> Novo Telefone: 61996511758
+
+[2023-07-01 17:47:01] Imagem de perfil atualizada com sucesso para o usuário: viniciusmendesdesousa@gmail.com | Restaurante ID: 1 | Imagem de Perfil: images_perfil/649f93da197fb.jpg -> images_perfil/64a090c5daba4.png
+
+[2023-07-01 22:04:58] Imagem de perfil atualizada com sucesso para o usuário: viniciusmendesdesousa@gmail.com | Restaurante ID: 1 | Imagem de Perfil: images_perfil/64a090c5daba4.png -> images_perfil/64a0cd3ad4b3e.png
+
+[2023-07-07 00:09:41] Nome Atualizado -  | Restaurante ID: 2 | Dados:: Nome Antigo: Sarah burguer -> Novo Nome: Cachorrinho Dogs
+
+[2023-07-07 00:09:41] Telefone Atualizado -  | Restaurante ID: 2 | Dados:: Telefone Antigo: 3455233 -> Novo Telefone: 3455233
